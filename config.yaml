@@ -1,0 +1,7 @@
+---
+title: Configuration
+---
+
+app_name: Leader Board
+metrics: rmse
+
